@@ -15,11 +15,6 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Clean repo except source, .github, CNAME, README.md
-        run: |
-          shopt -s extglob
-          rm -rf !(.git|.github|source|README.md|CNAME)
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -36,4 +31,4 @@ jobs:
           MY_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
           cd source
-          python main.py --output-dir=../
+          python main.py

@@ -1,38 +1,39 @@
-name: Sync githubmirror to root
+name: Update VPN Configs
 
 on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  sync:
+  update-files:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout mirror_flux
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
 
-      - name: Checkout source repo
-        run: |
-          git clone https://github.com/whoahaow/rjsxrd.git source_repo
-
-      - name: Clean repo root
+      - name: Clean repo except source, .github, CNAME, README.md
         run: |
           shopt -s extglob
-          rm -rf !(.git|.github|source|README.md)
+          rm -rf !(.git|.github|source|README.md|CNAME)
 
-      - name: Copy githubmirror to root
-        run: |
-          cp -r source_repo/githubmirror/* .
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-      - name: Commit and push
+      - name: Upgrade pip
+        run: python -m pip install --upgrade pip
+
+      - name: Install dependencies
+        run: cd source && pip install --no-cache-dir -r requirements.txt
+
+      - name: Run VPN config generator
+        env:
+          MY_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
-          git config user.name "AbikusSudo"
-          git config user.email "AbikusSudo@users.noreply.github.com"
-          git add .
-          git commit -m "sync githubmirror $(date -u)" || true
-          git push
+          cd source
+          python main.py --output-dir=../

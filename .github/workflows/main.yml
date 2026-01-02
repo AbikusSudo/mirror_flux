@@ -1,54 +1,38 @@
-
-name: Update VPN Configs
+name: Sync githubmirror to root
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # каждые 12 часов
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-files:
+  sync:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Клонируем репозиторий
-      - name: Checkout repository
+      - name: Checkout mirror_flux
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 2
 
-      # 2. Ставим Python
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      # 3. Обновляем pip
-      - name: Upgrade pip
-        run: python -m pip install --upgrade pip
-
-      # 4. Устанавливаем зависимости
-      - name: Install dependencies
+      - name: Checkout source repo
         run: |
-          cd source
-          pip install --no-cache-dir -r requirements.txt
+          git clone https://github.com/whoahaow/rjsxrd.git source_repo
 
-      # 5. Запускаем main.py
-      - name: Run main.py
-        env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}
+      - name: Clean repo root
         run: |
-          cd source
-          python main.py
+          shopt -s extglob
+          rm -rf !(.git|.github|source|README.md)
 
-      # 6. Коммитим изменения от AbikusSudo
-      - name: Commit & push changes
+      - name: Copy githubmirror to root
+        run: |
+          cp -r source_repo/githubmirror/* .
+
+      - name: Commit and push
         run: |
           git config user.name "AbikusSudo"
           git config user.email "AbikusSudo@users.noreply.github.com"
           git add .
-          git commit -m "update configs $(date -u)" || echo "No changes"
+          git commit -m "sync githubmirror $(date -u)" || true
           git push

@@ -146,6 +146,7 @@ hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=🔒
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:443/?mport=35000-39000&insecure=1&sni=www.apple.com#%F0%9F%9A%A941%40oneclickvpnkeys
 hy2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:443/?mport=35000-39000&insecure=1&sni=www.apple.com#🚩41@oneclickvpnkeys
 hy2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&sni=🔒
+hy2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854/?insecure=1&sni=www.bing.com#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:2ms
 hy2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743/?sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743/?sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=🔒 [By EbraSha] # 🔒 [By EbraSha]
@@ -197,16 +198,16 @@ hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=🔒 [By Ebr
 hy2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&sni=🔒 [By EbraSha]&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U # 🔒 [By EbraSha]
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40v2ray_collector%20%5B8%5D
 hy2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#%E2%9C%8572
-hy2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@107.167.18.108:443/?insecure=1&sni=🔒 [By EbraSha] #v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%203038%20%7C%20%E2%9A%A1%2053ms
-hy2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?mport=55000-56000&insecure=1&sni=www.bing.com#v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20HY2%20%7C%2014696%20%7C%20%E2%9A%A1%20151ms
-hy2://4e9ee29b39a28277@66.135.11.68:443?obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=wrmelmwxlf.gktevlrqznwqqqozy6hgvqxwfmfs%20vgvs6c7kjnrubuh.cc#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2014699%20%7C%20%E2%9A%A1%2025ms
-hy2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?mport=49999-65000&insecure=1&sni=www.bing.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2014700%20%7C%20%E2%9A%A1%2032ms
-hy2://KevinZakarian@66.23.198.32:443?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=www.eliv2ray.net#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2014702%20%7C%20%E2%9A%A1%2027ms
-hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2014705%20%7C%20%E2%9A%A1%2059ms
-hy2://aa068abd-f858-4fdf-b7c2-101947f160cb@65.49.60.38:443?mport=20201-20299#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2014708%20%7C%20%E2%9A%A1%2057ms
-hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20HY2%20%7C%2014728%20%7C%20%E2%9A%A1%2098ms
-hy2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@139.162.37.41:443?mport=20000-50000&insecure=1&sni=www.bing.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20HY2%20%7C%2014732%20%7C%20%E2%9A%A1%20205ms
-hy2://nfsn666@130.162.182.250:8888?insecure=1&sni=ld-arm.nfsn666.gq#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20HY2%20%7C%2014733%20%7C%20%E2%9A%A1%2097ms
+hy2://aa068abd-f858-4fdf-b7c2-101947f160cb@65.49.60.38:443?mport=20201-20299#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%20936%20%7C%20%E2%9A%A1%201ms
+hy2://4e9ee29b39a28277@66.135.11.68:443?obfs=salamander&obfs-password=13f7ba5f&insecure=1&sni=wrmelmwxlf.gktevlrqznwqqqozy6hgvqxwfmfs%20vgvs6c7kjnrubuh.cc#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%201041%20%7C%20%E2%9A%A1%2072ms
+hy2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?mport=49999-65000&insecure=1&sni=www.bing.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%201057%20%7C%20%E2%9A%A1%2069ms
+hy2://9bb452b106ffc217@207.148.22.93:443?obfs=salamander&obfs-password=cd29099d&insecure=1#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%201065%20%7C%20%E2%9A%A1%2071ms
+hy2://KevinZakarian@66.23.198.32:443?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=www.eliv2ray.net#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%201068%20%7C%20%E2%9A%A1%2067ms
+hy2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?mport=55000-56000&insecure=1&sni=www.bing.com#v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20HY2%20%7C%201089%20%7C%20%E2%9A%A1%20105ms
+hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20HY2%20%7C%201103%20%7C%20%E2%9A%A1%20140ms
+hy2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@139.162.37.41:443?mport=20000-50000&insecure=1&sni=www.bing.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20HY2%20%7C%201107%20%7C%20%E2%9A%A1%20170ms
+hy2://nfsn666@130.162.182.250:8888?insecure=1&sni=ld-arm.nfsn666.gq#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20HY2%20%7C%201114%20%7C%20%E2%9A%A1%20142ms
+hy2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@107.167.18.108:443/?insecure=1&sni=🔒 [By EbraSha] #v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2012593%20%7C%20%E2%9A%A1%208ms
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔷34@oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&amp;sni=YAPC-1.afshin.ir&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1#🧢1@oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&amp;sni=api.kermanshahi.org&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🧢41@oneclickvpnkeys
@@ -1096,13 +1097,4 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermansh
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2812%29
 hy2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743/?sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2833%29
 hy2://2e42c1ee-aaaa-11ec-bb74-f23c9164ca5d@107.167.18.108:443/?insecure=1&sni=WangCai.us.hyhuawei.com#%F0%9F%87%BA%F0%9F%87%B8US%28AzadNet.t.me%29%20%2834%29
-hy2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@dv-sg.9966661.xyz:3000?sni=dv-sg.9966661.xyz&insecure=1#013 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://c6cc43a9-20a4-43c3-aa26-758cd31161c7@hg1.xiaohuolongjc.top:37771?sni=hg1.xiaohuolongjc.top&insecure=1#038 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://f995789e-3504-4e67-94db-22fb221b2d58@xg1.xiaohuolongjc.top:37771?insecure=1&sni=xg1.xiaohuolongjc.top#045 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://9f4fe8bc-5bcf-4182-b885-32aca3cc833f@hkhub.xg-hub.icu:25782?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=hkhub.xg-hub.icu#051 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://y5e0Oe1cr4ekZom8Bc3i5oUIws@47.91.22.21:10310?insecure=1&sni=bing.com#089 ✂️-🇯🇵JP-last 14(@GheychiAmoozesh)
-hy2://f54eba3d-e4d1-4b5f-969d-ac8ea27b1037@hk.xilucloud.top:14558?insecure=1&sni=hk.xilucloud.top#105 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://74f135a0-6ff1-4024-90e7-a6e3f542525a@ushub.xg-hub.icu:25780?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=ushub.xg-hub.icu#126 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://f7aa7526-3d8e-4e63-a135-1bcf9f4751fd@hk.xilucloud.top:14558?insecure=1&sni=hk.xilucloud.top#165 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://03871437-6838-4ff4-9c6c-8f078d98039b@ushub.xg-hub.icu:25780?obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=ushub.xg-hub.icu#173 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
-hy2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@7be4b6-co.9966661.xyz:3000?sni=7be4b6-co.9966661.xyz&insecure=1#177 ✂️-🇺🇳UN-last 14(@GheychiAmoozesh)
+hy2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854/?insecure=1&sni=www.bing.com#%F0%9F%8D%ABTelegram%3Av2ray_configs_v2c%F0%9F%8D%AB

@@ -6,7 +6,7 @@ import zoneinfo
 
 # Repository settings
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
-REPO_NAME = "whoahaow/rjsxrd"  # Updated repository name
+REPO_NAME = "AbikusSudo/mirror_flux"  # Updated repository name
 
 # Time settings
 ZONE = zoneinfo.ZoneInfo("Europe/Moscow")

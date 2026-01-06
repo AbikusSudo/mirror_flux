@@ -13,7 +13,7 @@ hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?obfs=salamander&amp%
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&amp%3Bobfs=salamander&amp%3Bobfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp%3Binsecure=0&amp%3Bsni=api.kermanshahi.org#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20HY2%20%7C%20%40selinc
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&amp%3Bobfs-password=Yet-Another-Public-Config-1&amp%3Bsni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20HY2%20%7C%20%40v2ray_collector
 hy2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325?security=tls&amp%3Binsecure=0#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20HY2%20%7C%20%40v2rayprotocol
-hy2://aa068abd-f858-4fdf-b7c2-101947f160cb@65.49.60.38:443?mport=20201-20299#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2010271%20%7C%20%E2%9A%A1%2019ms
+hy2://aa068abd-f858-4fdf-b7c2-101947f160cb@65.49.60.38:443?mport=20201-20299#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%2010260%20%7C%20%E2%9A%A1%2050ms
 hy2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000/#🎨2@oneclickvpnkeys
 hy2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743/?sni=🔒
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743/?sni=🔒
